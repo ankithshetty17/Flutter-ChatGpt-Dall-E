@@ -7,6 +7,7 @@ class AppTheme {
   scaffoldBackgroundColor:AppPallette.backgroundColor,
   appBarTheme: AppBarTheme(
     backgroundColor: AppPallette.backgroundColor,
+    centerTitle: true
   )
  );
 }
